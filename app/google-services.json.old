@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "855758516536",
+    "firebase_url": "https://steries-f3bd3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "steries-f3bd3",
+    "storage_bucket": "steries-f3bd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855758516536:android:90224b805b381fc04b91cd",
+        "android_client_info": {
+          "package_name": "com.example.steries"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOMDQPCLxbCcng89_79QgFwY_7VeX8Mv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
